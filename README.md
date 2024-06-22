@@ -1,11 +1,5 @@
 # Tictactoe
-Your Java code implements a simple Tic-Tac-Toe game using Swing for the GUI. Here's a breakdown of its functionality:
-
-# Introduction
-The game checks for win conditions after each move.
-It displays the winner or if the game ends in a tie.
-
-Tic-Tc-Toe is a Java-based project designed to help users play tic tac toe game through an intuitive Graphical User Interface (GUI). The game is played on a 3x3 grid. Players take turns clicking buttons to place their respective marks (X or O).
+The Java code implements a simple Tic-Tac-Toe game using Swing for the GUI. Tic-Tc-Toe is a Java-based project designed to help users play tic tac toe game through an intuitive Graphical User Interface (GUI). The game is played on a 3x3 grid. Players take turns clicking buttons to place their respective marks (X or O).
 
 # Features
  1. Graphical User Interface (GUI)
