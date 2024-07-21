@@ -1,4 +1,4 @@
-# Tictactoe
+# Tic-Tac-Roe
 The Java code implements a simple Tic-Tac-Toe game using Swing for the GUI. Tic-Tc-Toe is a Java-based project designed to help users play tic tac toe game through an intuitive Graphical User Interface (GUI). The game is played on a 3x3 grid. Players take turns clicking buttons to place their respective marks (X or O).
 
 # Features
